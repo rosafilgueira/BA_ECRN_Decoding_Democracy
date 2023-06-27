@@ -1,16 +1,10 @@
-bertopic 
-gensim 
-hdbscan 
 ipython 
 numpy 
 pandas 
 plotly 
-python_dateutil 
 scikit_learn 
 scipy 
-sentence_transformers 
-sklearn 
 tqdm 
 requests
 html5lib
-install bs4
+bs4
